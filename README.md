@@ -64,5 +64,18 @@ The project aims to generate **actionable insights** into the company’s sales 
 7. **City-level performance:**  Out of all cities, 131 contributed low sales and low profits, while 31 cities achieved both high sales and high profits. Another 32 cities performed strongly in either sales or profit, but not both.
 8. **Shipping:**  Standard shipping mode accounted for the highest number of orders — and also the highest returns. Contrary to common belief, longer delivery times correlated with fewer returns compared to shorter delivery times.
    
+## Files Included  
+
+## 📂 Files Included  
+
+- [README.md](README.md) → Provides a description of the project  
+- [sales 2.csv](sales%202.csv) → Raw dataset of retail store sales  
+- [store sales database create queries.sql](store%20sales%20database%20create%20queries.sql) → SQL queries for creating data tables to ensure data consistency  
+- [store sales eda.sql](store%20sales%20eda.sql) → SQL queries for exploratory data analysis (EDA)  
+- [store sales analysis.sql](store%20sales%20analysis.sql) → SQL queries for project data analysis  
+- [database design diagram.pdf](database%20design%20diagram.pdf) → Database design diagram  
+- [sales dashboard.png](sales%20dashboard.png) → Sales dashboard with all visualizations  
+- [customer dashboard.png](customer%20dashboard.png) → Customer dashboard with all visualizations  
+ 
 
 
