@@ -35,7 +35,7 @@ The project aims to generate **actionable insights** into the company’s sales 
 4. The cleaned and transformed dataset was then connected to **Tableau**, where two dashboards were built:  
    - **Sales Dashboard**  
    - **Customers Dashboard**  
-   Both dashboards included a **year-selection parameter**.  
+Both dashboards included a **year-selection parameter**.  
 
 
 
@@ -51,6 +51,8 @@ The project aims to generate **actionable insights** into the company’s sales 
 - **Vertical Bar Chart:** Sales and Profits by Customer Segment  
 - **Scatter Plot:** Cities categorized by Sales and Profit to identify high- and low-performing regions  
 
+To view and interact with the dashboards, visit: [Tableau Public](https://public.tableau.com/app/profile/vatsala.chadha/viz/storesalesproject/customersdashboard?publish=yes)
+
 
 
 ## Key Insights (CY 2024 vs PY 2023)  
@@ -63,10 +65,9 @@ The project aims to generate **actionable insights** into the company’s sales 
 6. **Segment performance:**  The Consumer segment generated the highest sales and profits, followed by Corporate and then Home Office.
 7. **City-level performance:**  Out of all cities, 131 contributed low sales and low profits, while 31 cities achieved both high sales and high profits. Another 32 cities performed strongly in either sales or profit, but not both.
 8. **Shipping:**  Standard shipping mode accounted for the highest number of orders — and also the highest returns. Contrary to common belief, longer delivery times correlated with fewer returns compared to shorter delivery times.
-   
-## Files Included  
+     
 
-## 📂 Files Included  
+## Files Included  
 
 - [README.md](README.md) → Provides a description of the project  
 - [sales 2.csv](sales%202.csv) → Raw dataset of retail store sales  
